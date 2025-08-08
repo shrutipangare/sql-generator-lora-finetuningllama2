@@ -59,16 +59,6 @@ Output: SQL Query
 - **Memory Usage**: Significantly reduced through 4-bit quantization
 - **Training Time**: ~1 hour on Google Colab TPU
 
-## 📁 Project Structure
-sql-query-generator/
-├── SQL_Query_Generator.ipynb    # Main training notebook
-├── README.md                    # Project documentation
-├── requirements.txt             # Dependencies
-└── fine_tuned_llama_sql/       # Saved model (after training)
-├── adapter_config.json
-├── adapter_model.safetensors
-└── tokenizer files
-
 ## 🎯 Use Cases
 
 - **Database Query Assistance**: Help non-technical users write SQL
