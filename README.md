@@ -1,5 +1,4 @@
-# sql-generator-lora-finetuning
-SQL Query Generator using Fine-tuned Llama-2
+# SQL Query Generator using Fine-tuned Llama-2
 
 This project fine-tunes the Llama-2-7B model on a specialized SQL dataset to create an intelligent SQL query generator. The model can understand natural language instructions about database operations and generate corresponding SQL queries with proper syntax and logic.
 Key Features
